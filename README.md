@@ -1,17 +1,28 @@
-# localdatabase
+# Flutter Notes App
 
-A new Flutter project.
+A simple Flutter notes application using **SQLite** to store notes locally on the device. Built with `sqflite`.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- Add simple text notes
+- View saved notes
+- Delete notes
+- Local storage using SQLite
+- Fast and offline capable
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
+## Tools Used
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# LD_App
+- **Flutter** Cross-platform UI toolkit
+- **Dart**  Programming language used in Flutter
+- **sqflite** SQLite plugin for local data storage
+
+---
+## Screenshot
+
+<img width="535" alt="Screenshot 1446-11-14 at 12 18 09 PM" src="https://github.com/user-attachments/assets/bdcdd2b8-d1bd-47cf-9ed0-8d4c88c287b8" />
+
+
+
